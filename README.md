@@ -1,4 +1,4 @@
-#git - working with remotes
+# git - working with remotes
 
 - bla bla bla
 - bla bla bla
@@ -8,14 +8,14 @@
   comandi principali:
   `git remove -v` --> visualizza i server remoti
 
-  ##aggingere o rimuovere un repository
+  ## aggingere o rimuovere un repository
 
 `git remote add <nome> <url>`
 
-##caricare repository remoto
+## caricare repository remoto
 
 `git push <remote> <ramo-locale>`
 
-##aggiornare la copia del repository
+## aggiornare la copia del repository
 
 `git pull <remote> <ramo-locale>`
